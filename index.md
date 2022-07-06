@@ -3,10 +3,11 @@ scientifiques impliqués dans l’imagerie du petit animal, organise des Sémina
 Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-Imagerie-in-vivo-du-Petit-Animal)
 
 ### Laboratoires associés
-- **CRMSB** - Bordeaux
-- **GIN** - Grenoble
+- [**CRMSB**](https://www.rmsb.u-bordeaux.fr/fr/) - Bordeaux
+- [**CYCERON**](https://www.cyceron.fr/) - Caen
+- [**GIN**](https://tinyurl.com/d9vx4b3h) - Grenoble
 
-[Plus d'information](Laboratoire.md)
+[Plus d'informations](Laboratoire.md)
 
 ## Prochain évenements
 - **22 Novembre 2022:** Meeting du SAIN qui se tiendra à l'ICM (Paris)
