@@ -1,5 +1,5 @@
 ## Prochain évenements
-1. **22 Novembre 2022:** Meeting du SAIN qui se tiendra à l'ICM (Paris)
+- **22 Novembre 2022:** Meeting du SAIN qui se tiendra à l'ICM (Paris)
 
 ## Compte rendu des réunions
 
