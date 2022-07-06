@@ -2,9 +2,11 @@ Le réseau SAIN (Small Animal Imaging Network), qui regroupe au niveau national 
 scientifiques impliqués dans l’imagerie du petit animal, organise des Séminaires
 Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-Imagerie-in-vivo-du-Petit-Animal)
 
-### [Laboratoires associées](Laboratoire.md)
-- CRMSB - Bordeaux
-- GIN - Grenoble
+### Laboratoires associés
+- **CRMSB** - Bordeaux
+- **GIN** - Grenoble
+
+[Plus d'information](Laboratoire.md)
 
 ## Prochain évenements
 - **22 Novembre 2022:** Meeting du SAIN qui se tiendra à l'ICM (Paris)
