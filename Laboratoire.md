@@ -11,6 +11,14 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 
 ---
 
+## [CYCERON - Caen](https://www.cyceron.fr/)
+
+### Contacts
+* Mikaël Naveau: naveau@cyceron.fr
+* Nicolas Delcroix: delcroix@cyceron.fr
+
+---
+
 ## [GIN - Grenoble](https://tinyurl.com/d9vx4b3h)
 ### Lien et réseaux : 
 * https://github.com/nifm-gin
