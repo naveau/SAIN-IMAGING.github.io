@@ -1,3 +1,5 @@
+![Logo du SAIN](assets/images/LogoSAIN_small.png)
+
 Le réseau SAIN (Small Animal Imaging Network), qui regroupe au niveau national des
 scientifiques impliqués dans l’imagerie du petit animal, organise des Séminaires
 Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-Imagerie-in-vivo-du-Petit-Animal)
