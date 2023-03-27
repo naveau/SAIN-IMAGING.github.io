@@ -5,9 +5,12 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 ![Logo du SAIN](assets/images/LogoSAIN_small.png)
 
 ### Laboratoires associés
+- [**CREFE**](https://anexplo.genotoul.fr/exploration-non-invasive/) / [**ToNIC**](https://tonic.inserm.fr/) - Toulouse
+- [**CRMBM**](https://crmbm.univ-amu.fr/) - Marseille
 - [**CRMSB**](https://www.rmsb.u-bordeaux.fr/fr/) - Bordeaux
 - [**CYCERON**](https://www.cyceron.fr/) - Caen
 - [**GIN**](https://tinyurl.com/d9vx4b3h) - Grenoble
+- [**ICM (CENIR)**](https://institutducerveau-icm.org/en/cenir-irm-en/) - Paris
 
 [Plus d'informations](Laboratoire.md)
 
