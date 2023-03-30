@@ -54,3 +54,12 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 ### Contact
 
 * Mathieu Santin: mathieu.santin@icm-institute.org
+
+---
+
+## [CRI - Paris](https://cri1149.fr/) / [FRIM - Paris](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/)
+
+### Contacts
+
+* Sabrina Doblas: sabrina.doblas@inserm.fr
+* Philippe Garteiser: philippe.garteiser@inserm.fr
