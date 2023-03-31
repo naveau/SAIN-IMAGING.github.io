@@ -63,3 +63,16 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 
 * Sabrina Doblas: sabrina.doblas@inserm.fr
 * Philippe Garteiser: philippe.garteiser@inserm.fr
+
+---
+
+## [IVIA - Clermont-ferrand](https://ivia.uca.fr/)
+### Lien et réseaux : 
+* https://ivia.uca.fr/
+* https://www6.inrae.fr/agroresonance
+* https://twitter.com/AgroResonance
+
+### Contacts
+* ivia@uca.fr
+* agroresonance-ara@inrae.fr
+* Leslie Mazuel : leslie.mazuel@uca.fr
