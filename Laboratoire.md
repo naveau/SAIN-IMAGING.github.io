@@ -57,6 +57,19 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 
 ---
 
+## [ICube - Strasbourg](https://icube.unistra.fr/)
+### Lien et réseaux : 
+* https://plateforme.icube.unistra.fr/iris/
+* https://icube.unistra.fr/
+* https://www.linkedin.com/company/icube-strasbourg/
+
+### Contacts
+* Chrystelle Po : po@unistra.fr
+* Mary Mondino : mondino@unistra.fr
+* Vincent Noblet : vincent.noblet@unistra.fr
+
+---
+
 ## [CRI - Paris](https://cri1149.fr/) / [FRIM - Paris](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/)
 
 ### Contacts
