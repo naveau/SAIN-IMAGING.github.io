@@ -18,13 +18,16 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 
 ---
 
-## [CRMSB - Bordeaux](https://www.rmsb.u-bordeaux.fr/fr/)
+## [IHU LIRYC - Pessac](https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1) 
+
+Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré clinique petits et gros animaux.
+  
 ### Lien et réseaux : 
-* https://github.com/CRMSB
+* https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1
 
 ### Contacts
-* Emeline Ribot: emeline.ribot@rmsb.u-bordeaux.fr
-* Aurélien Trotier: aurelien.trotier@rmsb.u-bordeaux.fr; @AurelienTrotier
+* Julie Magat:  julie.magat@ihu-liryc.fr -  05 56 35 38 19 33
+* plateforme@ihu-liryc.fr
 
 ---
 
@@ -67,16 +70,19 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 * Chrystelle Po : po@unistra.fr
 * Mary Mondino : mondino@unistra.fr
 * Vincent Noblet : vincent.noblet@unistra.fr
-
+  
 ---
-
-## [CRI - Paris](https://cri1149.fr/) / [FRIM - Paris](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/)
+## [ICube - Strasbourg](https://icube.unistra.fr/)
+### Lien et réseaux : 
+* https://plateforme.icube.unistra.fr/iris/
+* https://icube.unistra.fr/
+* https://www.linkedin.com/company/icube-strasbourg/
 
 ### Contacts
-
-* Sabrina Doblas: sabrina.doblas@inserm.fr
-* Philippe Garteiser: philippe.garteiser@inserm.fr
-
+* Chrystelle Po : po@unistra.fr
+* Mary Mondino : mondino@unistra.fr
+* Vincent Noblet : vincent.noblet@unistra.fr
+  
 ---
 
 ## [IVIA - Clermont-ferrand](https://ivia.uca.fr/)
@@ -89,3 +95,12 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 * ivia@uca.fr
 * agroresonance-ara@inrae.fr
 * Leslie Mazuel : leslie.mazuel@uca.fr
+
+---
+
+## [CRI - Paris](https://cri1149.fr/) / [FRIM - Paris](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/)
+
+### Contacts
+
+* Sabrina Doblas: sabrina.doblas@inserm.fr
+* Philippe Garteiser: philippe.garteiser@inserm.fr

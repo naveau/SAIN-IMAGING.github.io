@@ -12,8 +12,9 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 - [**GIN**](https://tinyurl.com/d9vx4b3h) - Grenoble
 - [**ICM (CENIR)**](https://institutducerveau-icm.org/en/cenir-irm-en/) - Paris
 - [**ICube**](https://icube.unistra.fr/) - Strasbourg
-- [**CRI**](https://cri1149.fr/) / [**FRIM**](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/) - Paris
+- [**IHU LIRYC**](https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1) - Pessac
 - [**IVIA**](https://ivia.uca.fr/) - Clermont-ferrand
+- [**CRI**](https://cri1149.fr/) / [**FRIM**](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/) - Paris
 
 [Plus d'informations](Laboratoire.md)
 
