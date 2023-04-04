@@ -9,25 +9,21 @@ Liste des laboratoires et contacts attachées au réseau SAIN:
 
 ---
 
+## [CRI - Paris](https://cri1149.fr/) / [FRIM - Paris](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/)
+
+### Contacts
+
+* Sabrina Doblas: sabrina.doblas@inserm.fr
+* Philippe Garteiser: philippe.garteiser@inserm.fr
+
+---
+
 ## [CRMBM - Marseille](https://crmbm.univ-amu.fr/)
 
 ### Contacts
 * Frank Kober (séquences) : frank.kober@univ-amu.fr
 * Lucas Soustelle (séquences) : lucas.soustelle@univ-amu.fr ; @LucasSoustelle
 * Joevin Sourdon (plateforme) : joevin.sourdon@univ-amu.fr
-
----
-
-## [IHU LIRYC - Pessac](https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1) 
-
-Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré clinique petits et gros animaux.
-  
-### Lien et réseaux : 
-* https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1
-
-### Contacts
-* Julie Magat:  julie.magat@ihu-liryc.fr -  05 56 35 38 19 33
-* plateforme@ihu-liryc.fr
 
 ---
 
@@ -72,17 +68,18 @@ Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré cliniq
 * Vincent Noblet : vincent.noblet@unistra.fr
   
 ---
-## [ICube - Strasbourg](https://icube.unistra.fr/)
+
+## [IHU LIRYC - Pessac](https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1) 
+
+Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré clinique petits et gros animaux.
+  
 ### Lien et réseaux : 
-* https://plateforme.icube.unistra.fr/iris/
-* https://icube.unistra.fr/
-* https://www.linkedin.com/company/icube-strasbourg/
+* https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1
 
 ### Contacts
-* Chrystelle Po : po@unistra.fr
-* Mary Mondino : mondino@unistra.fr
-* Vincent Noblet : vincent.noblet@unistra.fr
-  
+* Julie Magat:  julie.magat@ihu-liryc.fr -  05 56 35 38 19 33
+* plateforme@ihu-liryc.fr
+
 ---
 
 ## [IVIA - Clermont-ferrand](https://ivia.uca.fr/)
@@ -98,9 +95,13 @@ Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré cliniq
 
 ---
 
-## [CRI - Paris](https://cri1149.fr/) / [FRIM - Paris](https://plateformes.u-paris.fr/federation-de-recherche-en-imagerie-multimodale-frim/)
+## [PILoT/CREATIS - Villeurbanne](https://www.creatis.insa-lyon.fr/site7/en/PILoT)
+
+Plateforme/Laboratoire: Plateforme d'Imagerie multimodale et expérimentale preclinique de LyonTech associée au laboratoire CREATIS, (modalités IRM, ultrasons et optiques)
+
+### Lien et réseaux : 
+* https://www.creatis.insa-lyon.fr/site7/en/PILoT
 
 ### Contacts
+* contact.pilot@creatis.insa-lyon.fr
 
-* Sabrina Doblas: sabrina.doblas@inserm.fr
-* Philippe Garteiser: philippe.garteiser@inserm.fr
