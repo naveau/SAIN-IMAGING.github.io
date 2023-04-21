@@ -16,7 +16,7 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 - [**ICube**](https://icube.unistra.fr/) - Strasbourg
 - [**IHU LIRYC**](https://www.ihu-liryc.fr/les-plateformes-de-recherche-et-dinnovation/#1) - Pessac
 - [**IVIA**](https://ivia.uca.fr/) - Clermont-ferrand
-- [**LIFE / PLBS**](https://ivia.uca.fr/) - Lille
+- [**LIIFE / PLBS**](https://ivia.uca.fr/) - Lille
 - [**PILoT**](https://www.creatis.insa-lyon.fr/site7/en/PILoT) / [**CREATIS**](https://www.creatis.insa-lyon.fr/site7/en) - Villeurbanne
 - [**PIV**](http://piv.parisdescartes.fr/) - Paris
   
