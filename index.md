@@ -18,7 +18,8 @@ Avancés en Imagerie in vivo du Petit Animal [SAIPAs](#Séminaires-Avancés-en-I
 - [**IVIA**](https://ivia.uca.fr/) - Clermont-ferrand
 - [**LIFE / PLBS**](https://ivia.uca.fr/) - Lille
 - [**PILoT**](https://www.creatis.insa-lyon.fr/site7/en/PILoT) / [**CREATIS**](https://www.creatis.insa-lyon.fr/site7/en) - Villeurbanne
-
+- [**PIV**](http://piv.parisdescartes.fr/) - Paris
+  
 [Plus d'informations](Laboratoire.md)
 
 ## Prochain évènements

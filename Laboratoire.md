@@ -134,3 +134,15 @@ Plateforme/Laboratoire: Plateforme d'Imagerie multimodale et expérimentale prec
 ### Contacts
 * contact.pilot@creatis.insa-lyon.fr
 
+---
+
+## [PIV - Paris](http://piv.parisdescartes.fr/)
+
+### Lien et réseaux : 
+* http://piv.parisdescartes.fr/
+
+### Contacts
+* Gwennhael Autret : gwennhael.autret@inserm.fr (plateforme IRM préclinique)
+* Fiche contact du site web pour les autres modalités
+
+
