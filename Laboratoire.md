@@ -1,11 +1,18 @@
 # Laboratoires
 Liste des laboratoires et contacts attachées au réseau SAIN:
 
-## [CREFE](https://anexplo.genotoul.fr/exploration-non-invasive/) / [ToNIC](https://tonic.inserm.fr/) - Toulouse
+## [CREFRE](https://anexplo.genotoul.fr/exploration-non-invasive/) / [ToNIC](https://tonic.inserm.fr/) - Toulouse
+
+Unité/Service/Plateforme : UMS 006 – CREFRE , Service Exploration Non Invasive, Plateforme GenoToul Anexplo (IRM 7T, TEP/CT, échocardiographie, échoélastographie).
+
+### Lien et réseaux : 
+Liens site web: https://anexplo.genotoul.fr/exploration-non-invasive/
+Appartenance FLi : https://www.francelifeimaging.fr/qui-sommes-nous/noeuds/occitan/
 
 ### Contacts
-* Franck DESMOULIN : Franck.desmoulin@inserm.fr
-* Carine PESTOURIE : Carine.pestourie@inserm.fr
+* liste.crefre-eni@inserm.fr
+* Franck Desmoulin (Responsable IRM CR Inserm ToNIC/CREFRE) franck.desmoulin@inserm.fr 05 62 74 61 97 (ToNIC) / 05 82 74 17 67 (CREFRE-ENI)
+* Carine Pestourie (Responsable CREFRE-ENI) carine.pestourie@inserm.fr 05 82 74 16 80
 
 ---
 
