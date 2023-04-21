@@ -115,6 +115,15 @@ Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré cliniq
 
 ---
 
+## [LIFE / PLBS - Lille](https://ums-plbs.univ-lille.fr/les-plateformes-constitutives/imagerie-du-vivant-exploration-fonctionnelle)
+### Lien et réseaux : 
+* https://ums-plbs.univ-lille.fr/les-plateformes-constitutives/imagerie-du-vivant-exploration-fonctionnelle
+  
+### Contacts : 
+* florent.auger@inserm.fr
+
+---
+
 ## [PILoT/CREATIS - Villeurbanne](https://www.creatis.insa-lyon.fr/site7/en/PILoT)
 
 Plateforme/Laboratoire: Plateforme d'Imagerie multimodale et expérimentale preclinique de LyonTech associée au laboratoire CREATIS, (modalités IRM, ultrasons et optiques)
@@ -124,4 +133,16 @@ Plateforme/Laboratoire: Plateforme d'Imagerie multimodale et expérimentale prec
 
 ### Contacts
 * contact.pilot@creatis.insa-lyon.fr
+
+---
+
+## [PIV - Paris](http://piv.parisdescartes.fr/)
+
+### Lien et réseaux : 
+* http://piv.parisdescartes.fr/
+
+### Contacts
+* Gwennhael Autret : gwennhael.autret@inserm.fr (plateforme IRM préclinique)
+* Fiche contact du site web pour les autres modalités
+
 
