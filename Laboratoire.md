@@ -1,13 +1,26 @@
 # Laboratoires
 Liste des laboratoires et contacts attachées au réseau SAIN:
 
+## [CERMEP](www.cermep.fr) - Lyon/Bron
+
+CERMEP - imagerie du vivant
+
+### Lien et réseaux : 
+* www.cermep.fr
+
+### Contacts
+* plateforme préclinique ANIMAGE : Radu BOLBOS ( radu.bolbos@cermep.fr )
+* directeur du CERMEP : Luc ZIMMER ( luc.zimmer@cermep.fr )
+  
+---
+
 ## [CREFRE](https://anexplo.genotoul.fr/exploration-non-invasive/) / [ToNIC](https://tonic.inserm.fr/) - Toulouse
 
 Unité/Service/Plateforme : UMS 006 – CREFRE , Service Exploration Non Invasive, Plateforme GenoToul Anexplo (IRM 7T, TEP/CT, échocardiographie, échoélastographie).
 
 ### Lien et réseaux : 
-Liens site web: https://anexplo.genotoul.fr/exploration-non-invasive/
-Appartenance FLi : https://www.francelifeimaging.fr/qui-sommes-nous/noeuds/occitan/
+* Liens site web: https://anexplo.genotoul.fr/exploration-non-invasive/
+* Appartenance FLi : https://www.francelifeimaging.fr/qui-sommes-nous/noeuds/occitan/
 
 ### Contacts
 * liste.crefre-eni@inserm.fr
