@@ -115,7 +115,7 @@ Plateforme Imagerie IHU LIRYC (IRM, RX, µCT, échographie, scanner) pré cliniq
 
 ---
 
-## [LIFE / PLBS - Lille](https://ums-plbs.univ-lille.fr/les-plateformes-constitutives/imagerie-du-vivant-exploration-fonctionnelle)
+## [LIIFE / PLBS - Lille](https://ums-plbs.univ-lille.fr/les-plateformes-constitutives/imagerie-du-vivant-exploration-fonctionnelle)
 ### Lien et réseaux : 
 * https://ums-plbs.univ-lille.fr/les-plateformes-constitutives/imagerie-du-vivant-exploration-fonctionnelle
   
